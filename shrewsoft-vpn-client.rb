@@ -2,7 +2,7 @@ class ShrewsoftVpnClient < Formula
   desc "Linux/BSD version of Shrew Soft VPN client"
   homepage "https://www.shrew.net"
   url "https://www.shrew.net/download/ike/ike-2.2.0-release.tbz2"
-  sha256 "05c72f1ef1547818f5af367afa3f116f4b511a4a19ce723a22f8357a98ab7b57"
+  sha256 "94a62f9a13dbf37c2ccba168cbc21c4a663d0f4d36aa0cf04fdac7061ba8dc48"
   head "svn://svn.shrew.net/ike/head"
   revision 1
 
