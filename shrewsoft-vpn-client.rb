@@ -13,7 +13,7 @@ class ShrewsoftVpnClient < Formula
   depends_on "cmake" => :build
   depends_on "openssl"
   depends_on :tuntap
-  depends_on "qt@4" if build.with? "gui"
+  #depends_on "qt@4" if build.with? "gui"
 
   def install
     # upstream request to support specifying Application/Framework folders:
